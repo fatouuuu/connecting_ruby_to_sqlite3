@@ -1,1 +1,1 @@
-# connecting_ruby_to_sqlite3
+task: connect a ruby file to database
